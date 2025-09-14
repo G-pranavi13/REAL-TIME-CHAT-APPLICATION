@@ -29,3 +29,5 @@ Scalable Architecture: Can be extended with features like private chats, typing 
 This system demonstrates how WebSockets can be combined with a modern front-end framework to deliver an efficient, interactive, and user-friendly real-time communication platform.
 
 ##OUTPUT
+
+<img width="1895" height="912" alt="Image" src="https://github.com/user-attachments/assets/99a0ba06-243d-400b-8184-2bc7f714769f" />
